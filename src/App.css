@@ -3,11 +3,10 @@
 }
 
 body {
+  background-image: url('images/background.png'); 
   background-position: center;
-  background-image: url('images/background.png');
   color: white;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode";
 }
 
 sistema-solar {
@@ -16,31 +15,11 @@ sistema-solar {
 
 .planetas {
   display: inline-block;
-  position: absolute;
   margin: auto;
+  position: absolute;
   text-align: center;
-  width: 1284px;
   height: 305.54px;
-  left: 0px;
+  width: 1284px;
+  left: 0;
   top: 444px;
 }
-
-div #planetas {
-  display: flex;
-  height: 31px;
-  left: 39px;
-  top: 620px;
-  width: 41px;
-  margin-top: 40%;
-}
-
-
-
-
-
-
-
-
-
-
-
