@@ -3,23 +3,19 @@
 }
 
 body {
-  background-image: url('images/background.png'); 
+  background-image: url('images/background.png');
 
   background-position: center;
   color: white;
 }
 
-#sistema-solar {
-  width: 100%;
-}
-
 .planetas {
   display: inline-block;
   margin: auto;
-  position: absolute;
   height: 305.54px;
-  text-align: center;
+  position: absolute;
   left: 0;
   width: 1284px;
   top: 444px;
+  text-align: center;
 }
