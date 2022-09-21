@@ -4,18 +4,17 @@
 
 body {
   background-image: url('images/background.png');
-
   background-position: center;
   color: white;
 }
 
 .planetas {
   display: inline-block;
-  margin: auto;
   height: 305.54px;
+  margin: auto;
   position: absolute;
   left: 0;
-  width: 1284px;
-  top: 444px;
   text-align: center;
+  top: 444px;
+  width: 1284px;
 }
