@@ -4,12 +4,12 @@
 
 body {
   background-image: url('images/background.png'); 
+
   background-position: center;
   color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode";
 }
 
-sistema-solar {
+#sistema-solar {
   width: 100%;
 }
 
@@ -17,9 +17,9 @@ sistema-solar {
   display: inline-block;
   margin: auto;
   position: absolute;
-  text-align: center;
   height: 305.54px;
-  width: 1284px;
+  text-align: center;
   left: 0;
+  width: 1284px;
   top: 444px;
 }
